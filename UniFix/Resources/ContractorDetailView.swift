@@ -2,6 +2,7 @@
 //  ContractorDetailView.swift
 //  UniFix
 //
+//  View to show Contractor "profile", including location, reviews, personal bio, etc.
 //  Created by Ryan Lamping on 12/4/24.
 //
 

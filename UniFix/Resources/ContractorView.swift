@@ -2,6 +2,8 @@
 //  ContractorView.swift
 //  UniFix
 //
+//  View to show contractor box when customer searching for contractor
+//  -- ratings, response time?, etc.
 //  Created by Ryan Lamping on 12/4/24.
 //
 

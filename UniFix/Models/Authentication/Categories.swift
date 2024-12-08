@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+enum Categories: String, CaseIterable {
+    case plumber = "Plubmer"
+    case electrian = "Electrician"
+    case carpenter = "Carpenter"
+}

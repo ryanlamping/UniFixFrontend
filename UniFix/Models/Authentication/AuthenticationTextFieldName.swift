@@ -13,9 +13,9 @@ struct AuthenticationTextFieldName: View {
     var body: some View {
         Text(name)
             .font(.system(size: 17, weight: .light))
-            .foregroundColor(Color(hex: "E1E587"))
             .frame(height: 15, alignment: .leading)
             .padding(.top, 10)
+            .foregroundColor(.white)
     }
 }
 

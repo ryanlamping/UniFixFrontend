@@ -14,7 +14,7 @@ struct BackgroundModifier: ViewModifier {
     func body(content: Content) -> some View {
         content
             .frame(maxWidth: .infinity, maxHeight: .infinity)
-            .background(Color(hex: "505050"))
+            .background(Color(hex: "1a1a1a"))
             .edgesIgnoringSafeArea(.all)
     }
 }
